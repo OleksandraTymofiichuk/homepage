@@ -1,0 +1,114 @@
+.heigh_header
+{
+    background-image: url("cat4.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: purple;
+    font-size: 33pt;
+    text-align: center;
+    height: 300pt;
+}
+
+.col-md-8
+{
+    background-image: url("me.jpeg");
+
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 400pt;
+    width: 500pt;
+}
+
+button, input[type="submit"] {
+    background-color: #d9edff;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0.375rem 0.75rem;
+    text-align: center;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    vertical-align: middle;
+}
+
+.col-8
+{
+    background-image: url("pictures/4.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800pt;
+    width: 600pt;
+
+}
+
+.col1-8
+{
+    background-image: url("pictures/5.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800pt;
+    width: 600pt;
+
+}
+
+.col2-8
+{
+    background-image: url("pictures/6.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800pt;
+    width: 600pt;
+
+}
+
+.col3-8
+{
+    background-image: url("pictures/7.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800pt;
+    width: 600pt;
+
+}
+
+.col4-8
+{
+    background-image: url("pictures/8.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800pt;
+    width: 600pt;
+
+}
+
+.col5-8
+{
+    background-image: url("pictures/9.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 800pt;
+    width: 600pt;
+
+}
+
+#back
+{
+    background-image: url("b.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
